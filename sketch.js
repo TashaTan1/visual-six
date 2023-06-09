@@ -59,7 +59,7 @@ function draw() {
       button.position(200, height/2);
       button.mousePressed(function goToAnotherPage() {
         window.location.href =
-          "https://editor.p5js.org/natashatan/sketches/h_e2T2qUD";
+          "https://tashatan1.github.io/visual-six/";
       });
       button = createButton("Let's Breath");
       button.position(425, height/2);
